@@ -1,0 +1,8 @@
+{
+  "name": "URAH DIGITAL",
+  "description": "Selective web studio for Nigerian schools, service businesses, and established online brands. Websites engineered for trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
